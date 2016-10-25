@@ -1,0 +1,55 @@
+/* Overview tabs */
+#tabLayout{
+	list-style-type:none;
+	margin:0 0 0 0;
+	padding:0;
+	overflow:hidden;
+	background:#333;
+}
+#tabLayout li{
+	float:left;
+}
+#tabLayout li a {
+	display:block;
+	color:white;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration:none;
+}
+#tabLayout li a:hover {
+	background: #111;
+}
+.overviewContainer{
+	 Width:100%;
+	 margin: 15px 0;
+}
+#overview{
+	background:gray;
+	padding:15px;
+	height:325px;
+}
+#components{
+	background:gray;
+	padding:15px;
+	height:325px;
+}
+#fitmentTable{
+	background:gray;
+	padding:15px;
+	height:325px;
+}
+#productInstructions{
+	background:gray;
+	padding:15px;
+	height:325px;
+}
+#video{
+	background:gray;
+	padding:15px;
+	height:325px;
+}
+#faq{
+	background:gray;
+	padding:15px;
+	height:325px;
+}
